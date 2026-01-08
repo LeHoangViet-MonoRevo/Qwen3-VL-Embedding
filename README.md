@@ -1,8 +1,7 @@
 <p align="center">
     <img src="https://model-demo.oss-cn-hangzhou.aliyuncs.com/Qwen3-VL-Embedding.png" width="400"/>
-<p><p align="center">
     <img src="https://model-demo.oss-cn-hangzhou.aliyuncs.com/Qwen3-VL-Reranker.png" width="400"/>
-<p>
+</p>
 
 # Qwen3-VL-Embedding & Qwen3-VL-Reranker
 
